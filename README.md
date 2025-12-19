@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanush</h1>
-<h3 align="center">Java and DSA practitioner bulding AI solutions</h3>
+<h3 align="center">Java and Data Anaylsis bulding AI solutions</h3>
 
 - 🔭 I’m currently working on [AirQualityPredictor](http://localhost:8501)
 
-- 🌱 I’m currently learning **Advanced Java concepts, and building a strong foundation in DSA and Web Development.**
+- 🌱 I’m currently learning **Advanced Java concepts, .**
 
-- 💬 Ask me about **Java, DSA, frontend and backend technologies, and general aptitude.**
+- 💬 Ask me about **Java,Sql, Data Analysis, frontend and backend technologies, and general aptitude.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/namala-tanush-294416328/**
 
