@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AirQualityPredictor](http://localhost:8501)
 
-- 🌱 I’m currently learning **Advanced Java concepts, .**
+- 🌱 I’m currently learning **Advanced Java concepts, Data Analysis .**
 
 - 💬 Ask me about **Java,Sql, Data Analysis, frontend and backend technologies, and general aptitude.**
 
