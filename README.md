@@ -1,6 +1,6 @@
 # Hi, I'm Tanush 👋
 
-AI & ML Student | Aspiring Data Scientist | Freelance Video Editor
+AI & ML Student | Aspiring Data Scientist | SQL 
 
 I build AI-powered applications, machine learning projects, dashboards, and web systems.
 
