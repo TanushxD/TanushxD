@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Tanush</h1>
-<h3 align="center">AI & ML Undergraduate | Python • Machine Learning • Data Analysis</h3>
+# Hi, I'm Tanush 👋
 
-- 🔭 Currently working on **Air Quality Index (AQI) Prediction System** using Python & Machine Learning  
-- 🌱 Learning **Advanced Java, Data Analysis, and Applied Machine Learning concepts**  
-- 💬 Ask me about **Python, Machine Learning, SQL, Data Analysis, Web Development, and Problem Solving**  
-- 📫 Reach me on **LinkedIn**: https://www.linkedin.com/in/namala-tanush-294416328/  
-- ⚡ Fun fact: **I enjoy building real-world AI solutions that combine data with meaningful impact**
+AI & ML Student | Aspiring Data Scientist | Freelance Video Editor
 
+I build AI-powered applications, machine learning projects, dashboards, and web systems.
+
+## 🚀 Skills
+- Python
+- Machine Learning
+- SQL
+- Data Analysis
+- HTML/CSS
+- Tableau / Power BI
+- Git & GitHub
+
+## 📌 Featured Projects
+- EcoSort – AI Smart Waste Segregation
+- Patient Health Pattern Clustering
+- Health Genie AI
+
+## 🛠 Tools
+Python | Pandas | Scikit-learn | TensorFlow | MySQL | VS Code
+
+## 📫 Connect With Me
+LinkedIn 
+Portfolio Website
+Email
