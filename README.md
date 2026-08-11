@@ -1,6 +1,6 @@
 # Hi, I'm Tanush 👋
 
-AI & ML Student | Aspiring Data Scientist | SQL 
+AI & ML Undergraduate | Aspiring Data Scientist | SQL  
 
 I build AI-powered applications, machine learning projects, dashboards, and web systems.
 
@@ -16,12 +16,11 @@ I build AI-powered applications, machine learning projects, dashboards, and web 
 ## 📌 Featured Projects
 - EcoSort – AI Smart Waste Segregation
 - Patient Health Pattern Clustering
-- Health Genie AI
+- F1 Analytics
 
 ## 🛠 Tools
 Python | Pandas | Scikit-learn | TensorFlow | MySQL | VS Code
 
 ## 📫 Connect With Me
-LinkedIn 
-Portfolio Website
-Email
+[LinkedIn](https://www.linkedin.com/in/namala-tanush-294416328/) 
+[Email](tanushtanush123@gmail.com)
