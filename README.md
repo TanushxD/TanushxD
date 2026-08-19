@@ -19,8 +19,9 @@ I build AI-powered applications, machine learning projects, dashboards, and web 
 - F1 Analytics
 
 ## 🛠 Tools
-Python | Pandas | Scikit-learn | TensorFlow | MySQL | VS Code
+Python | Pandas | Scikit-learn | TensorFlow | MySQL | Excel
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/namala-tanush-294416328/) 
 [Email](tanushtanush123@gmail.com)
+[LeetCode](https://leetcode.com/u/XIx30CwYra/)
