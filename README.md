@@ -8,6 +8,7 @@ I build AI-powered applications, machine learning projects, dashboards, and web 
 - Python
 - Machine Learning
 - SQL
+- Advanced Excel
 - Data Analysis
 - HTML/CSS
 - Tableau / Power BI
