@@ -1,4 +1,4 @@
-# Hi, I'm Tanush 👋
+# Hi, I'm Tanush 
 
 AI & ML Undergraduate | Aspiring Data Scientist | SQL  
 
